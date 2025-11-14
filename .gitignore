@@ -1,0 +1,12 @@
+# 软件包文件（通过 Release 发布）
+*.vsix
+*.zip
+*.tar.gz
+*.exe
+*.msi
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
